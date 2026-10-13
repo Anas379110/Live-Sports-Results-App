@@ -1,4 +1,4 @@
-# 🛠️ التقنيات المستخدمة — تطبيق نتائج رياضية مباشرة في الوقت الفعلي
+# 🛠️ Tech Stack — Real-Time Sports Live Scores Application
 
 - Angular
 - TypeScript

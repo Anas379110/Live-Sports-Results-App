@@ -1,21 +1,20 @@
-# تطبيق نتائج رياضية مباشرة في الوقت الفعلي
-**Real-Time Sports Live Scores Application** · التصنيف: واجهة أمامية (Frontend)
+# Real-Time Sports Live Scores Application
+**Real-Time Sports Live Scores Application** · Classification: Frontend
 
-> هذا المشروع خاص بشركة/عميل محدد، والكود المصدري غير منشور.
 > Private client work — the source code is not public.
 
-## نبذة عن المشروع
-Angular PWA مع إدارة حالة NgRx وبث WebSocket للنتائج المباشرة.
+## Project overview
+Angular PWA with NgRx state management and WebSocket streaming for live scores.
 
-## أبرز النقاط
+## Highlights
 - NgRx Entity Adapter + Effects + Selectors
-- مشغلات RxJS لتدفقات البيانات الفعالة
-- حزمة أولية أقل من 150KB مع Lazy Loading
+- RxJS operators for efficient data streams
+- Initial bundle under 150KB with Lazy Loading
 
-## الدور
-مطوّر Frontend: بناء الواجهات وإدارة الحالة والتكامل مع الـ APIs وتحسين الأداء وتجربة المستخدم.
+## Role
+Frontend Developer: building UIs, state management, API integration, performance and UX optimization.
 
-## التقنيات المستخدمة
+## Technologies used
 Angular, TypeScript, NgRx, RxJS, WebSockets, Tailwind CSS, Angular PWA
 
-التفاصيل في [TECHSTACK.md](./TECHSTACK.md).
+Details in [TECHSTACK.md](./TECHSTACK.md).
